@@ -1,1 +1,3 @@
-<center>![Enunciado](../src/to_readme/Cadastro.png)</center>
+<p align="center">
+  ![Enunciado](../src/to_readme/Cadastro.png)
+</p>
