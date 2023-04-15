@@ -1,5 +1,5 @@
-<p align="center">
-  # <u>Lógica de Programação e Algoritmos</u>
+<div align="center">
+  <h1><u>Lógica de Programação e Algoritmos</u><h1>
 
-  #### <center>Repositório criado para eventual consulta.</center>
-</p>
+  Repositório criado para eventual consulta.
+</div>
