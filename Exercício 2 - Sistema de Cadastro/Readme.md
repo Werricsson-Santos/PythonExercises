@@ -1,3 +1,3 @@
 <p align="center">
-  ![Enunciado](../src/to_readme/Cadastro.png)
+  <img src="../src/to_readme/Cadastro.png">
 </p>
